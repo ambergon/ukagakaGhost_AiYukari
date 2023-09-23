@@ -1,0 +1,8 @@
+{
+     "API_KEY"          : "SetYourAPIKey",
+     "NoticeText"       : "\\1!\\0" ,
+     "ChargeAPI"        : 2  , 
+     "ChargeAPIMax"     : 3  ,
+     "ChargeAPISecMax"  : 30 ,
+     "ChatHistoryMax"   : 7 
+}

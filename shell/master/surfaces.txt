@@ -1,0 +1,105 @@
+charset,UTF-8
+
+descript 
+{
+    version,1
+}
+
+
+surface0-18 
+{
+	//collision100,38,142,232,324,body
+    //横,縦,横,縦
+    collisionex0,Head,region,atari_Head.png,0,25,255
+    collisionex1,Bust,region,atari_Bust.png,255,30,0
+    collisionex2,Mouse,region,atari_Mouse.png,90,238,65
+}
+
+sakura.surface.alias 
+{
+	普通,[0]
+	照れ,[1]
+	照れ笑い,[2]
+	にっこり,[3]
+	嬉しそうに,[4]
+	泣き顔,[5]
+	恐怖,[6]
+	驚き,[7]
+	考え中,[8]
+	困り顔,[9]
+	寂しそう,[10]
+	笑顔,[11]
+	心配,[12]
+	赤面,[13]
+	洗脳,[14]
+	動揺,[15]
+	悲しい,[16]
+	微笑み,[17]
+	万歳,[18]
+}
+
+
+surface0 { 
+	element0,base,普通.png,0,0 
+}
+surface1 {
+	element0,base,照れ.png,0,0 
+}
+surface2 {
+	element0,base,照れ笑い.png,0,0 
+}
+surface3 { 
+	element0,base,にっこり.png,0,0 
+}
+surface4 { 
+	element0,base,嬉しそうに.png,0,0 
+}
+surface5 {
+	element0,base,泣き顔.png,0,0 
+}
+surface6 { 
+	element0,base,恐怖.png,0,0 
+}
+surface7 { 
+	element0,base,驚き.png,0,0 
+}
+surface8 {
+	element0,base,考え中.png,0,0 
+}
+surface9 { 
+	element0,base,困り顔.png,0,0 
+}
+surface10 { 
+	element0,base,寂しそう.png,0,0 
+}
+surface11 { 
+	element0,base,笑顔.png,0,0 
+}
+surface12 { 
+	element0,base,心配.png,0,0 
+}
+surface13 { 
+	element0,base,赤面.png,0,0 
+}
+surface14 { 
+	element0,base,洗脳.png,0,0 
+}
+surface15 { 
+	element0,base,動揺.png,0,0 
+}
+surface16 { 
+	element0,base,悲しい.png,0,0 
+}
+surface17 { 
+	element0,base,微笑み.png,0,0 
+}
+surface18 { 
+	element0,base,万歳.png,0,0 
+}
+
+
+
+
+
+
+

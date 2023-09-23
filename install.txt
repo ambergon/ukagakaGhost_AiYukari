@@ -1,0 +1,7 @@
+charset,UTF-8
+name,ukagakaAiGhost_yukari
+type,ghost
+directory,ukagakaAiGhost_yukari
+
+
+
