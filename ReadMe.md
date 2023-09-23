@@ -8,7 +8,7 @@
 
 
 ## サンプル動画とかある?
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm42800287/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm42800287">AIを搭載した結月ゆかりとデスクトップで戯れてみる。【伺か】</a></noscript>
+[AIを搭載した結月ゆかりとデスクトップで戯れてみる。【伺か】](https://www.nicovideo.jp/watch/sm42800287)
 
 
 ## 設定ファイルの場所
