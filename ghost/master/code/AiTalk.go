@@ -97,7 +97,6 @@ func AiTalk( NewMessage string, ID string ) {
     resp, err := client.CreateChatCompletion(
         Sig,
         openai.ChatCompletionRequest{ 
-            //Model   : openai.GPT3Dot5Turbo, 
             Model   : openai.GPT4TurboPreview , 
             Messages: msgs  ,
             //MaxTokens        : 600  ,
@@ -270,7 +269,7 @@ func TopicTalk( ID string ) {
     resp, err := client.CreateChatCompletion(
         Sig,
         openai.ChatCompletionRequest{ 
-            Model   : openai.GPT3Dot5Turbo, 
+            Model   : openai.GPT4TurboPreview , 
             Messages: msgs  ,
             //MaxTokens        : 600  ,
             //元->設定なし。
