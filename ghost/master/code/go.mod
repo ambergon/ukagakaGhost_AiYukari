@@ -2,4 +2,4 @@ module GolangShiori
 
 go 1.19
 
-require github.com/sashabaranov/go-openai v1.9.3
+require github.com/sashabaranov/go-openai v1.17.9
