@@ -1,0 +1,22 @@
+ghost.dat
+ghost.dat.bak
+ghost/master/var/
+ghost/master/profile/
+
+
+shell.dat
+shell.dat.bak
+shell/master/profile
+log.txt
+log.uka
+
+
+## yaya
+# /ghost/master/
+yaya_variable.cfg
+## satori
+satori_savedata.txt
+satori_savebackup.txt
+
+history.dat
+var.txt
